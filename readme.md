@@ -7,7 +7,7 @@
 
 Visualização / View:
 
-! [prinstcreen from the page](https://64.media.tumblr.com/cdf9a8a4ca7bc25aa96782363b29d450/f13c0822fdef4655-99/s540x810/7f16902a86cddd1a7b691cc1e34d969feb143a7a.png)
+<img src="https://64.media.tumblr.com/cdf9a8a4ca7bc25aa96782363b29d450/f13c0822fdef4655-99/s540x810/7f16902a86cddd1a7b691cc1e34d969feb143a7a.png">
 
 
 
